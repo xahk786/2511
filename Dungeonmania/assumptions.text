@@ -1,0 +1,5 @@
+- zombiestoasters cant move boulders
+- only swords can destroy zombie toasters
+- weapons do not decrease in durability after destroying zombie toaster
+- zombie toasts can walk thru zombie toasters
+- the game map has a max dimension of (-10) -> 10 in both x and y directions

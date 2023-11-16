@@ -1,0 +1,51 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 2,
+            "y" : 5
+        },
+        {
+            "type": "spider",
+            "x": 4,
+            "y": 5
+        }, {
+            "type": "exit",
+            "x": 10,
+            "y": 10
+        }, {
+            "type": "time_turner",
+            "x": 2,
+            "y": 3
+        }, {
+            "type": "time_turner",
+            "x": 7,
+            "y": 5
+        }, {
+            "type": "assassin",
+            "x": 8,
+            "y": 0
+        }, {
+            "type": "arrow",
+            "x": 3,
+            "y": 1
+        },{
+            "type": "arrow",
+            "x": 1,
+            "y": 5
+        }, {
+            "type": "treasure",
+            "x": 4,
+            "y": 1
+        }, {
+            "type": "sun_stone",
+            "x": 2,
+            "y": 1
+        }, {
+            "type": "sceptre",
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

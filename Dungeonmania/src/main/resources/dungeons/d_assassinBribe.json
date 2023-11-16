@@ -1,0 +1,59 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 1,
+            "y" : 2
+        },  {
+            "type" : "time_turner",
+            "x" : 1,
+            "y" : 1
+        },  {
+            "type" : "sceptre",
+            "x" : 0,
+            "y" : 2
+        },  {
+            "type" : "sword",
+            "x" : 3,
+            "y" : 0
+        },  {
+            "type" : "zombie_toast_spawner",
+            "x" : 4,
+            "y" : 0
+        },  {
+            "type" : "treasure",
+            "x" : 5,
+            "y" : 2
+        },  {
+            "type" : "treasure",
+            "x" : 6,
+            "y" : 2
+        },  {
+            "type" : "treasure",
+            "x" : 7,
+            "y" : 2
+        },
+        {
+            "type" : "invisibility_potion",
+            "x" : 2,
+            "y" : 3
+        },  {
+            "type" : "invincibility_potion",
+            "x" : 3,
+            "y" : 3
+        },  {
+            "type" : "assassin",
+            "x" : 10,
+            "y" : 0
+        },  {
+            "type" : "mercenary",
+            "x" : 2,
+            "y" : 10
+        }, {
+            "type" : "exit",
+            "x" : 10,
+            "y" : 20
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}
